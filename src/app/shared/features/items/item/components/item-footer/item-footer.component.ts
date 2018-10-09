@@ -1,10 +1,10 @@
 import { Component } from '@angular/core';
-import { EButtonTypes } from '../icon-item/buttonTypes';
+import { ButtonTypes} from '../../models/ButtonTypes';
 @Component({
-  selector: 'app-item-footer',
+  selector: 'app-items-item-footer',
   templateUrl: './item-footer.component.html',
   styleUrls: ['./item-footer.component.scss']
 })
 export class ItemFooterComponent {
-  public EButtonTypes = EButtonTypes;
+    public ButtonTypes = ButtonTypes;
 }

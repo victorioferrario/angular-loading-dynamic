@@ -1,4 +1,4 @@
-import { EButtonTypes } from './buttonTypes';
+import { ButtonTypes } from '../../models';
 import { Component, Input } from '@angular/core';
 import { IconEnumAware } from './icon-aware.component';
 @Component({
@@ -8,7 +8,7 @@ import { IconEnumAware } from './icon-aware.component';
 })
 @IconEnumAware
 export class IconItemComponent {
-  public EButtonTypes = EButtonTypes;
+  public ButtonTypes = ButtonTypes;
   @Input()
-  buttonType: EButtonTypes;
+  buttonType: ButtonTypes;
 }

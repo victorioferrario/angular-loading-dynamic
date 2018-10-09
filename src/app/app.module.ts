@@ -6,17 +6,10 @@ import { ServiceWorkerModule } from '@angular/service-worker';
 import { environment } from '../environments/environment';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { FlexLayoutModule } from '@angular/flex-layout';
-import { ItemComponent } from './components/item/item.component';
-import { IconItemComponent } from './components/icon-item/icon-item.component';
-import { ItemFooterComponent } from './components/item-footer/item-footer.component';
-import { ItemContentComponent } from './components/item-content/item-content.component';
+import { ItemsItemModule } from './shared/features/items/item/items-item.module';
 @NgModule({
   declarations: [
-    AppComponent,
-    ItemComponent,
-    ItemFooterComponent,
-    IconItemComponent,
-    ItemContentComponent
+    AppComponent
   ],
   imports: [
     BrowserModule.withServerTransition({ appId: 'serverApp' }),
@@ -24,7 +17,8 @@ import { ItemContentComponent } from './components/item-content/item-content.com
       enabled: environment.production
     }),
     BrowserAnimationsModule,
-    FlexLayoutModule
+    FlexLayoutModule,
+    ItemsItemModule
   ],
   providers: [],
   bootstrap: [AppComponent]
