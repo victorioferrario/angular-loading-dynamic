@@ -1,18 +1,18 @@
 <ng-container [ngSwitch]="buttonType">
-    <ng-container *ngSwitchCase="EButtonTypes.DEALS">
+    <ng-container *ngSwitchCase="ButtonTypes.DEALS">
         <span class="item-icon no-label">
             <span class="item-icon-image">
-                <img class="rocket" height="24" src="assets/images/todays-specials-purple.svg" width="24">
+                <img class="rocket" height="22" src="assets/images/todays-specials-purple.svg" width="22">
             </span>
         </span>
     </ng-container>
-    <ng-container *ngSwitchCase="EButtonTypes.GREEN">
+    <ng-container *ngSwitchCase="ButtonTypes.GREEN">
         <span class="item-icon no-label">
             <span class="item-icon-image">
-                <img height="24" src="assets/images/price-drop-item-green.svg" width="24" /></span>
+                <img height="21" src="assets/images/price-drop-item-green.svg" width="21" /></span>
         </span>
     </ng-container>
-    <ng-container *ngSwitchCase="EButtonTypes.CONDITION">
+    <ng-container *ngSwitchCase="ButtonTypes.CONDITION">
         <span class="item-icon">
             <span class="item-icon-image">
                 <img alt="Condition" src="assets/images/icons/Condition.svg">
@@ -20,26 +20,26 @@
             <span class="item-icon-label" [fxShow.xs]="false">Factory Refurbished</span>
         </span>
     </ng-container>
-    <ng-container *ngSwitchCase="EButtonTypes.ROCKET">
+    <ng-container *ngSwitchCase="ButtonTypes.ROCKET">
         <span class="item-icon no-label">
             <span class="item-icon-image">
                 <img class="rocket flipped-img" height="24" src="assets/images/rocket-item-red.svg" width="24" /></span>
         </span>
     </ng-container>
-    <ng-container *ngSwitchCase="EButtonTypes.RESTRICTIONS">
+    <ng-container *ngSwitchCase="ButtonTypes.RESTRICTIONS">
         <span class="item-icon no-label">
             <span class="item-icon-image">
                 <img alt="Restrictions" src="assets/images/icons/Restrictions.svg"></span>
         </span>
     </ng-container>
-    <ng-container *ngSwitchCase="EButtonTypes.ETA">
+    <ng-container *ngSwitchCase="ButtonTypes.ETA">
         <span class="item-icon">
             <span class="item-icon-image">
                 <img alt="ETA" src="assets/images/icons/eta.svg"></span>
             <span class="item-icon-label" [fxShow.xs]="false">4 Days</span>
         </span>
     </ng-container>
-    <ng-container *ngSwitchCase="EButtonTypes.PACKAGING">
+    <ng-container *ngSwitchCase="ButtonTypes.PACKAGING">
         <span class="item-icon">
             <span class="item-icon-image">
                 <img alt="Condition" src="assets/images/icons/Packaging.svg">
@@ -47,7 +47,7 @@
             <span class="item-icon-label" [fxShow.xs]="false">Branded Box</span>
         </span>
     </ng-container>
-    <ng-container *ngSwitchCase="EButtonTypes.WARRANTY">
+    <ng-container *ngSwitchCase="ButtonTypes.WARRANTY">
         <span class="item-icon">
             <span class="item-icon-image">
                 <img alt="Condition" src="assets/images/icons/Warranty.svg">
