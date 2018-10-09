@@ -6,6 +6,11 @@ ng add @angular/pwa --project angular-universal
 http-server -p 8080 -c-1 dist/angular-universal
 ```
 
+
+## Notes
+Making Develop branch
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
 
 ## Development server
