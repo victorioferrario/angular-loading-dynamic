@@ -11,8 +11,7 @@ import {
   IRequestPaginationItems,
   ItemsContext,
   IItem
-} from './shared/domain/items';
-import { Builder } from 'protractor';
+} from '@hubx/domain';
 
 @Component({
   selector: 'app-root',
@@ -27,8 +26,10 @@ export class AppComponent implements OnInit, AfterViewInit {
     this.ds.asObservable();
   }
   ngOnInit(): void {
-    this.itemContext.getPayload().subscribe((data: IRequestPaginationItems) => {
-      this.ds.next(data.values);
+    const self = this;
+    self.itemContext.getPayload().subscribe(
+      (data: IRequestPaginationItems) => {
+      self.ds.next(data.values);
     });
   }
   ngAfterViewInit() {}

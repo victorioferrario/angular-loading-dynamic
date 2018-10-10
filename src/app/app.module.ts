@@ -7,7 +7,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 /**
  * LOCAL
  */
-import { AppComponent } from './app.component';
+import { AppComponent } from './components/app/app.component';
 import { ItemsItemModule } from './shared/features/items/item/items-item.module';
 import { DomainModule } from './shared/domain/domain.module';
 @NgModule({
