@@ -1,6 +1,6 @@
 import { ButtonTypes } from '../../models';
 import { Component, Input } from '@angular/core';
-import { IconEnumAware } from './icon-aware.component';
+import { IconEnumAware, IconEnum } from './icon-aware.component';
 @Component({
   selector: 'app-icon-item',
   templateUrl: './icon-item.component.html',
