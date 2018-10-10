@@ -1,5 +1,38 @@
 # AngularUniversal
 
+## Adding ngx/bootstrap
+
+Install `ngx-bootstrap` from npm:
+```
+npm install ngx-bootstrap --save
+
+```
+Add needed package to NgModule imports:
+```
+import { TooltipModule } from 'ngx-bootstrap/tooltip';
+
+@NgModule({
+  ...
+  imports: [TooltipModule.forRoot(),...]
+  ...
+})
+```
+Add component to your page:
+
+```
+<button type="button" class="btn btn-primary"
+        tooltip="Vivamus sagittis lacus vel augue laoreet rutrum faucibus.">
+  Simple demo
+</button>
+```
+
+You will need bootstrap styles:
+```
+<!--- index.html -->
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+```
+
+
 ```
 ng add @angular/pwa --project angular-universal
 
