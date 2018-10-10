@@ -11,7 +11,8 @@ import {
   ItemFooterComponent,
   ItemContentComponent,
   InventoryListComponent,
-  InventoryItemComponent
+  InventoryItemComponent,
+  DynamicIconComponent
 } from './components';
 
 const COMPONENTS = [
@@ -22,11 +23,12 @@ const COMPONENTS = [
   ItemFooterComponent,
   ItemContentComponent,
   InventoryItemComponent,
-  InventoryListComponent
+  InventoryListComponent,
+  DynamicIconComponent
 ];
 @NgModule({
   exports: [COMPONENTS],
-  entryComponents: [IconItemComponent],
+  entryComponents: [IconItemComponent, DynamicIconComponent],
   imports: [
     BrowserModule,
     LayoutModule,

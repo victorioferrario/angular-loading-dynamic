@@ -1,2 +1,3 @@
+export * from './dynamic-icon.component';
 export * from './icon-aware.component';
-export {IconItemComponent } from './icon-item.component';
+export * from './icon-item.component';
