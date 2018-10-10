@@ -1,19 +1,22 @@
 <ng-container [ngSwitch]="buttonType">
     <ng-container *ngSwitchCase="ButtonTypes.DEALS">
-        <span class="item-icon no-label">
+        <span class="item-icon no-label wrapper">
+            <span class="tooltip purple">Today's Deal</span>
             <span class="item-icon-image">
                 <img class="rocket" height="22" src="assets/images/todays-specials-purple.svg" width="22">
             </span>
         </span>
     </ng-container>
     <ng-container *ngSwitchCase="ButtonTypes.GREEN">
-        <span class="item-icon no-label">
+        <span class="item-icon no-label wrapper">
+                <span class="tooltip">Price Drop</span>
             <span class="item-icon-image">
                 <img height="21" src="assets/images/price-drop-item-green.svg" width="21" /></span>
         </span>
     </ng-container>
     <ng-container *ngSwitchCase="ButtonTypes.ROCKET">
-        <span class="item-icon no-label">
+        <span class="item-icon no-label wrapper">
+                <span class="tooltip red">Just Launched</span>
             <span class="item-icon-image">
                 <img class="rocket flipped-img" height="24" src="assets/images/rocket-item-red.svg" width="24" /></span>
         </span>

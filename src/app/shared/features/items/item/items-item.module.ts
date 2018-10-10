@@ -3,6 +3,8 @@ import { LayoutModule } from '@angular/cdk/layout';
 import { FlexLayoutModule } from '@angular/flex-layout';
 import { BrowserModule } from '@angular/platform-browser';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+// Third party
+import { TooltipModule } from 'ngx-bootstrap/tooltip';
 import {
   ItemComponent,
   IconItemComponent,
@@ -32,6 +34,7 @@ const COMPONENTS = [
   imports: [
     BrowserModule,
     LayoutModule,
+    TooltipModule.forRoot(),
     FlexLayoutModule,
     BrowserAnimationsModule
   ],

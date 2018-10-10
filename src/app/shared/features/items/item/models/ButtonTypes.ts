@@ -29,4 +29,24 @@ export interface IDataItem {
   text?: string | null;
   type: ButtonTypes;
   icon?: ButtonIconTypes;
+  tooltipText?: TooltipText | null | string;
+  tooltipColor?: TooltipColor | null;
+}
+
+export enum TooltipColor {
+  GEEN = '',
+  PURPLE = 'purple',
+  RED = 'red',
+  WHITE = 'white',
+}
+export enum TooltipText {
+  CONDITION = '',
+  ETA = 'Lead Time',
+  GREEN = 'Price Drop',
+  DEALS = 'Today\'s Deals',
+  JUST_LAUNCHED = 'Just Launched',
+  PACKAGING = '',
+  RESTRICTIONS = '',
+  ROCKET = 'Just Launched',
+  WARRANTY = ''
 }
