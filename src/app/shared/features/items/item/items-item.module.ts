@@ -1,22 +1,38 @@
-import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { LayoutModule } from '@angular/cdk/layout';
 import { FlexLayoutModule } from '@angular/flex-layout';
-import { ItemComponent,
-  IconItemComponent, ItemContentComponent, ItemLogoComponent, ItemFooterComponent } from './components';
+import { BrowserModule } from '@angular/platform-browser';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import {
+  ItemComponent,
+  IconItemComponent,
+  ItemLogoComponent,
+  ItemPriceComponent,
+  ItemFooterComponent,
+  ItemContentComponent,
+  InventoryListComponent,
+  InventoryItemComponent
+} from './components';
+
 const COMPONENTS = [
-  ItemComponent, IconItemComponent, ItemContentComponent, ItemLogoComponent, ItemFooterComponent
+  ItemComponent,
+  IconItemComponent,
+  ItemLogoComponent,
+  ItemPriceComponent,
+  ItemFooterComponent,
+  ItemContentComponent,
+  InventoryItemComponent,
+  InventoryListComponent
 ];
 @NgModule({
-  declarations: [
-    COMPONENTS
-  ],
+  exports: [COMPONENTS],
+  entryComponents: [IconItemComponent],
   imports: [
-    BrowserAnimationsModule,
-    FlexLayoutModule
+    BrowserModule,
+    LayoutModule,
+    FlexLayoutModule,
+    BrowserAnimationsModule
   ],
-  exports: [ COMPONENTS],
-  providers: [],
-  bootstrap: []
+  declarations: [COMPONENTS]
 })
 export class ItemsItemModule {}

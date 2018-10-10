@@ -1,0 +1,2264 @@
+{
+  "pagination": {
+    "totalCount": 862,
+    "pageSize": 50,
+    "currentPage": 1,
+    "totalPages": 18
+  },
+  "values": [
+    {
+      "id": "f9565b89-0392-4b10-903c-07fb3d0b0e41",
+      "manufacturer": "Lenovo",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/lenovo.svg",
+      "description": "Lenovo 320-15IKB Core™ i7-7500U 2.7GHz 1TB 16GB 15.6\" (1920x1080) DVD-RW BT WIN10 Webcam FP Reader",
+      "mpn": "80XL03RKUS-PK",
+      "moq": 1,
+      "partNumber": "80XL03RKUS-PK",
+      "leadTimeDays": 4,
+      "inventory": {
+        "availableToSell": 111,
+        "onHand": 0,
+        "enRoute": 111,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 459.0
+        }
+      ],
+      "attributes": [],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "1bf96b9f-9ed4-4c41-8f3c-028d1f2ec353",
+      "manufacturer": "Dell",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/dell.svg",
+      "description": "Dell Latitude E5270 ULTRABOOK Core™ i5-6300U 2.4GHz 256GB SSD 8GB 12.5\" (1366x768) BT WIN10 Pro Webcam Backlit Keyboard NEW OPEN BOX",
+      "mpn": "LE5270-I5258-NOB",
+      "moq": 0,
+      "partNumber": "LE5270-I5258-NOB",
+      "leadTimeDays": 4,
+      "inventory": {
+        "availableToSell": 86,
+        "onHand": 11,
+        "enRoute": 75,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 449.0
+        }
+      ],
+      "attributes": [
+        {
+          "code": "A9E3CE9D91",
+          "label": "Visual Condition",
+          "value": "New",
+          "iconUri": "",
+          "description": null,
+          "attrId": "99d69dca-a3d4-4f2b-8c06-912ecc95e4a1"
+        },
+        {
+          "code": "D9332C9CF7",
+          "label": "Condition",
+          "value": "New Open Box",
+          "iconUri": "",
+          "description": null,
+          "attrId": "3389ee35-d719-4bb4-bd0a-ac190f6b4a8a"
+        },
+        {
+          "code": "19E4501A99",
+          "label": "Warranty",
+          "value": "Balance of Manufacturer Warranty",
+          "iconUri": "",
+          "description": null,
+          "attrId": "f73d4f6f-1306-466f-9338-65bb4adb6cbc"
+        },
+        {
+          "code": "3D6443E1CD",
+          "label": "Packaging",
+          "value": "Retail Box",
+          "iconUri": "",
+          "description": null,
+          "attrId": "9d53b1f5-4a99-4597-b253-7d50559d9d49"
+        }
+      ],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "c9a0daea-c13f-45ca-be38-0a7cd25f0726",
+      "manufacturer": "Dell",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/dell.svg",
+      "description": "Dell Inspiron 7559-2512BLK GAMING Core™ i7-6700HQ 2.6GHz 1TB+8GB SSD 8GB 15.6\" (1920x1080) BT WIN10 Webcam NVIDIA® GTX 960M 4096MB GRAY Backlit Keyboard",
+      "mpn": "I7559-2512BLK",
+      "moq": 0,
+      "partNumber": "I7559-2512BLK",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 77,
+        "onHand": 77,
+        "enRoute": 0,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 689.0
+        }
+      ],
+      "attributes": [
+        {
+          "code": "A9E3CE9D91",
+          "label": "Visual Condition",
+          "value": "New",
+          "iconUri": "",
+          "description": null,
+          "attrId": "99d69dca-a3d4-4f2b-8c06-912ecc95e4a1"
+        },
+        {
+          "code": "0D217FEE7C",
+          "label": "Condition",
+          "value": "New Factory Sealed",
+          "iconUri": "",
+          "description": null,
+          "attrId": "3389ee35-d719-4bb4-bd0a-ac190f6b4a8a"
+        },
+        {
+          "code": "416FBFFE90",
+          "label": "Warranty",
+          "value": "1 Year Warranty",
+          "iconUri": "",
+          "description": null,
+          "attrId": "f73d4f6f-1306-466f-9338-65bb4adb6cbc"
+        },
+        {
+          "code": "3D6443E1CD",
+          "label": "Packaging",
+          "value": "Retail Box",
+          "iconUri": "",
+          "description": null,
+          "attrId": "9d53b1f5-4a99-4597-b253-7d50559d9d49"
+        }
+      ],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "575a2fcc-9a9c-40df-a24f-01944d632d73",
+      "manufacturer": "Lenovo",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/lenovo.svg",
+      "description": "Lenovo LEGION Y720-15IKB GAMING Core™ i7-7700HQ 2.8GHz 256GB SSD 8GB 15.6\" (1920x1080) IPS BT WIN10 Webcam NVIDIA® GTX 1060 6144MB BLACK Backlit Keyboard",
+      "mpn": "80VR0064US",
+      "moq": 1,
+      "partNumber": "80VR0064US-LCR",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 42,
+        "onHand": 42,
+        "enRoute": 0,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 879.0
+        }
+      ],
+      "attributes": [
+        {
+          "code": "BAAF298B47",
+          "label": "Condition",
+          "value": "Factory Refurbished",
+          "iconUri": "",
+          "description": null,
+          "attrId": "3389ee35-d719-4bb4-bd0a-ac190f6b4a8a"
+        },
+        {
+          "code": "2EC7A07AEB",
+          "label": "Warranty",
+          "value": "90 Day Warranty",
+          "iconUri": "",
+          "description": null,
+          "attrId": "f73d4f6f-1306-466f-9338-65bb4adb6cbc"
+        },
+        {
+          "code": "AE860AA6E2",
+          "label": "Packaging",
+          "value": "Branded Box",
+          "iconUri": "",
+          "description": null,
+          "attrId": "9d53b1f5-4a99-4597-b253-7d50559d9d49"
+        },
+        {
+          "code": "1E3C4F305A",
+          "label": "Restrictions",
+          "value": "Yes",
+          "iconUri": "",
+          "description": "Can only be sold in the United States",
+          "attrId": "ca391ff4-58bc-41f5-ab43-439cd0d72dde"
+        }
+      ],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "90918682-f6b9-4fac-8fea-0d837b6c6ce2",
+      "manufacturer": "Lenovo",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/lenovo.svg",
+      "description": "Lenovo FLEX 5 14 2-IN-1 Core™ i5-8250U 1.6GHz 256GB SSD 8GB 14\" IPS (1920x1080) TOUCHSCREEN BT WIN10 Webcam NVIDIA® 940MX 2048MB ONYX BLACK Backlit Keyboard",
+      "mpn": "81C9000EUS-PK",
+      "moq": 0,
+      "partNumber": "81C9000EUS-PK",
+      "leadTimeDays": 4,
+      "inventory": {
+        "availableToSell": 29,
+        "onHand": 0,
+        "enRoute": 29,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 499.0
+        }
+      ],
+      "attributes": [
+        {
+          "code": "CED700FB29",
+          "label": "Visual Condition",
+          "value": "Refurbished",
+          "iconUri": "",
+          "description": null,
+          "attrId": "99d69dca-a3d4-4f2b-8c06-912ecc95e4a1"
+        },
+        {
+          "code": "8C1E29CF90",
+          "label": "Condition",
+          "value": "Store Return - 3rd Party Refurbished",
+          "iconUri": "",
+          "description": null,
+          "attrId": "3389ee35-d719-4bb4-bd0a-ac190f6b4a8a"
+        },
+        {
+          "code": "2EC7A07AEB",
+          "label": "Warranty",
+          "value": "90 Day Warranty",
+          "iconUri": "",
+          "description": null,
+          "attrId": "f73d4f6f-1306-466f-9338-65bb4adb6cbc"
+        },
+        {
+          "code": "C35B6463C1",
+          "label": "Packaging",
+          "value": "Generic Box",
+          "iconUri": "",
+          "description": null,
+          "attrId": "9d53b1f5-4a99-4597-b253-7d50559d9d49"
+        }
+      ],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "22ba36b6-683a-4b4b-afc0-037426df94e7",
+      "manufacturer": "Lenovo",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/lenovo.svg",
+      "description": "Lenovo N42-20T Chromebook Celeron® Dual-Core N3060 1.6GHz 16GB eMMC 4GB 14\" (1366x768) TOUCHSCREEN BT CHROME OS Webcam BLACK",
+      "mpn": "80VJ0000US",
+      "moq": 1,
+      "partNumber": "80VJ0000US-LCR",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 24,
+        "onHand": 24,
+        "enRoute": 0,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 149.0
+        }
+      ],
+      "attributes": [
+        {
+          "code": "BAAF298B47",
+          "label": "Condition",
+          "value": "Factory Refurbished",
+          "iconUri": "",
+          "description": null,
+          "attrId": "3389ee35-d719-4bb4-bd0a-ac190f6b4a8a"
+        },
+        {
+          "code": "2EC7A07AEB",
+          "label": "Warranty",
+          "value": "90 Day Warranty",
+          "iconUri": "",
+          "description": null,
+          "attrId": "f73d4f6f-1306-466f-9338-65bb4adb6cbc"
+        },
+        {
+          "code": "AE860AA6E2",
+          "label": "Packaging",
+          "value": "Branded Box",
+          "iconUri": "",
+          "description": null,
+          "attrId": "9d53b1f5-4a99-4597-b253-7d50559d9d49"
+        },
+        {
+          "code": "1E3C4F305A",
+          "label": "Restrictions",
+          "value": "Yes",
+          "iconUri": "",
+          "description": "Can only be sold in the United States",
+          "attrId": "ca391ff4-58bc-41f5-ab43-439cd0d72dde"
+        }
+      ],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "ca77e5d8-5317-41da-8ec1-0dcf572b0fff",
+      "manufacturer": "Lenovo",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/lenovo.svg",
+      "description": "Lenovo Yoga 720-13IKB 2-IN-1 Core™ i7-7500U 2.7GHz 512GB SSD 8GB 13.3\" (1920x1080) IPS TOUCHSCREEN BT WIN10 Webcam COPPER Backlit Keyboard FP Reader 2.87 lbs., 0.6\" thin",
+      "mpn": "80X600HEUS",
+      "moq": 1,
+      "partNumber": "80X600HEUS-LCR",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 23,
+        "onHand": 23,
+        "enRoute": 0,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 679.0
+        }
+      ],
+      "attributes": [
+        {
+          "code": "BAAF298B47",
+          "label": "Condition",
+          "value": "Factory Refurbished",
+          "iconUri": "",
+          "description": null,
+          "attrId": "3389ee35-d719-4bb4-bd0a-ac190f6b4a8a"
+        },
+        {
+          "code": "2EC7A07AEB",
+          "label": "Warranty",
+          "value": "90 Day Warranty",
+          "iconUri": "",
+          "description": null,
+          "attrId": "f73d4f6f-1306-466f-9338-65bb4adb6cbc"
+        },
+        {
+          "code": "AE860AA6E2",
+          "label": "Packaging",
+          "value": "Branded Box",
+          "iconUri": "",
+          "description": null,
+          "attrId": "9d53b1f5-4a99-4597-b253-7d50559d9d49"
+        },
+        {
+          "code": "1E3C4F305A",
+          "label": "Restrictions",
+          "value": "Yes",
+          "iconUri": "",
+          "description": "Can only be sold in the United States",
+          "attrId": "ca391ff4-58bc-41f5-ab43-439cd0d72dde"
+        }
+      ],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "a8574ebe-fd44-4fb2-992a-027273d4b269",
+      "manufacturer": "Lenovo",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/lenovo.svg",
+      "description": "Lenovo FLEX 5 15 2-IN-1 Core™ i5-7200U 2.5GHz 256GB SSD 8GB 15.6\" (1920x1080) IPS TOUCHSCREEN BT WIN10 Webcam ONYX BLACK Backlit Keyboard",
+      "mpn": "80XB0006US-PK",
+      "moq": 1,
+      "partNumber": "80XB0006US-PK",
+      "leadTimeDays": 4,
+      "inventory": {
+        "availableToSell": 22,
+        "onHand": 0,
+        "enRoute": 22,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 429.0
+        }
+      ],
+      "attributes": [],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "788c6e86-3d4e-4739-935e-09ac2db3f24b",
+      "manufacturer": "Lenovo",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/lenovo.svg",
+      "description": "Lenovo FLEX 5 14 2-IN-1 Core™ i5-8250U 1.6GHz 256GB SSD 8GB 14\" (1920x1080) IPS TOUCHSCREEN BT WIN10 Webcam NVIDIA® 940MX 2048MB ONYX BLACK Backlit Keyboard",
+      "mpn": "81C9000EUS",
+      "moq": 1,
+      "partNumber": "81C9000EUS-LSD",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 20,
+        "onHand": 20,
+        "enRoute": 0,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 469.0
+        }
+      ],
+      "attributes": [
+        {
+          "code": "2EC7A07AEB",
+          "label": "Warranty",
+          "value": "90 Day Warranty",
+          "iconUri": "",
+          "description": null,
+          "attrId": "f73d4f6f-1306-466f-9338-65bb4adb6cbc"
+        },
+        {
+          "code": "AE860AA6E2",
+          "label": "Packaging",
+          "value": "Branded Box",
+          "iconUri": "",
+          "description": null,
+          "attrId": "9d53b1f5-4a99-4597-b253-7d50559d9d49"
+        },
+        {
+          "code": "1E3C4F305A",
+          "label": "Restrictions",
+          "value": "Yes",
+          "iconUri": "",
+          "description": "Can only be sold in the United States",
+          "attrId": "ca391ff4-58bc-41f5-ab43-439cd0d72dde"
+        }
+      ],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "f2a70719-540a-424e-a832-063f61d21072",
+      "manufacturer": "Lenovo",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/lenovo.svg",
+      "description": "Lenovo Yoga 720-15IKB 2-IN-1 Core™ i7-7700HQ 2.8GHz 1TB SSD 16GB 15.6\" UHD (3840x2160) IPS TOUCHSCREEN BT WIN10 Pro Webcam NVIDIA® GTX 1050 2048MB IRON GREY FP Reader Backlit Keyboard Bluetooth Active Pen",
+      "mpn": "80X7008JUS",
+      "moq": 1,
+      "partNumber": "80X7008JUS-LCR",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 13,
+        "onHand": 13,
+        "enRoute": 0,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 859.0
+        }
+      ],
+      "attributes": [
+        {
+          "code": "BAAF298B47",
+          "label": "Condition",
+          "value": "Factory Refurbished",
+          "iconUri": "",
+          "description": null,
+          "attrId": "3389ee35-d719-4bb4-bd0a-ac190f6b4a8a"
+        },
+        {
+          "code": "2EC7A07AEB",
+          "label": "Warranty",
+          "value": "90 Day Warranty",
+          "iconUri": "",
+          "description": null,
+          "attrId": "f73d4f6f-1306-466f-9338-65bb4adb6cbc"
+        },
+        {
+          "code": "AE860AA6E2",
+          "label": "Packaging",
+          "value": "Branded Box",
+          "iconUri": "",
+          "description": null,
+          "attrId": "9d53b1f5-4a99-4597-b253-7d50559d9d49"
+        },
+        {
+          "code": "1E3C4F305A",
+          "label": "Restrictions",
+          "value": "Yes",
+          "iconUri": "",
+          "description": "Can only be sold in the United States",
+          "attrId": "ca391ff4-58bc-41f5-ab43-439cd0d72dde"
+        }
+      ],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "16fa12c1-d913-4263-83dd-0313ff346c01",
+      "manufacturer": "HP",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/hp.svg",
+      "description": "HP ZBook 15U G4 MOBILE WORKSTATION Core™ i7-7500U 2.7GHz 256GB SSD 8GB 15.6\" (1920x1080) BT NFC WIN10 Pro Webcam AMD FirePro™ W4190M 2048MB FP Reader Backlit Keyboard",
+      "mpn": "1BS33UTR#ABA",
+      "moq": 1,
+      "partNumber": "1BS33UTR#ABA",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 12,
+        "onHand": 0,
+        "enRoute": 12,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 799.0
+        }
+      ],
+      "attributes": [],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "668c586b-5831-47c6-9120-06f7dad4e336",
+      "manufacturer": "Dell",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/dell.svg",
+      "description": "Dell Inspiron 5770 Core™ i7-8550U 1.8GHz 1TB+128GB SSD 8GB 17.3\" (1920x1080) DVD-RW BT WIN10 Pro Webcam AMD 530 4096MB Backlit Keyboard PLATINUM SILVER",
+      "mpn": "I17-5770I71T128PV-REF",
+      "moq": 1,
+      "partNumber": "I17-5770I71T128PV-REF",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 12,
+        "onHand": 0,
+        "enRoute": 12,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 649.0
+        }
+      ],
+      "attributes": [],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "8a4a00f3-4a03-4902-8e94-0e01b169f425",
+      "manufacturer": "HP",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/hp.svg",
+      "description": "HP ProBook 640 G1 Core™ i5-4300M 2.6GHz 500GB 4GB 14\" (1920x1080) DVD-ROM BT WIN10 Pro Webcam",
+      "mpn": "PB 640 G1-001-A",
+      "moq": 1,
+      "partNumber": "PB 640 G1-001-A",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 12,
+        "onHand": 0,
+        "enRoute": 12,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 239.0
+        }
+      ],
+      "attributes": [],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "fa09aa3d-9397-446d-ab67-030194b52e9e",
+      "manufacturer": "Dell",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/dell.svg",
+      "description": "Dell Inspiron 7773 CONVERTIBLE 2-IN-1 Core™ i7-8550U 1.8GHz 512GB SSD 16GB 17.3\" (1920x1080) TOUCHSCREEN BT WIN10 IR Webcam NVIDIA® MX150 2048MB ERA GRAY Backlit Keyboard",
+      "mpn": "I17-7773I75116TV-REF",
+      "moq": 1,
+      "partNumber": "I17-7773I75116TV-REF",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 11,
+        "onHand": 0,
+        "enRoute": 11,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 819.0
+        }
+      ],
+      "attributes": [],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "c1ee3021-9a91-4fec-a7d0-00ea37f8026e",
+      "manufacturer": "HP",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/hp.svg",
+      "description": "HP 15-BS178 Core™ i5-8250U 1.6GHz 2TB 12GB 15.6\" (1366x768) DVD-RW BT WIN10 Webcam MARINE BLUE",
+      "mpn": "2PE22UA#ABA",
+      "moq": 1,
+      "partNumber": "2PE22UA#ABA",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 11,
+        "onHand": 0,
+        "enRoute": 11,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 469.0
+        }
+      ],
+      "attributes": [],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "c13bf4bf-aefe-437c-89f6-01c09bd3431e",
+      "manufacturer": "Lenovo",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/lenovo.svg",
+      "description": "Lenovo LEGION Y520-15IKBM GAMING Core™ i7-7700HQ 2.8GHz 2TB+256GB SSD 16GB 15.6\" (1920x1080) IPS BT WIN10 Webcam NVIDIA® GTX 1060 3072MB BLACK Backlit Keyboard",
+      "mpn": "80YY0060US-PK",
+      "moq": 1,
+      "partNumber": "80YY0060US-PK",
+      "leadTimeDays": 4,
+      "inventory": {
+        "availableToSell": 10,
+        "onHand": 0,
+        "enRoute": 10,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 839.0
+        }
+      ],
+      "attributes": [],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "47a8f6b8-d1c8-46c9-9ff6-0e2c4e9d6f43",
+      "manufacturer": "Dell",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/dell.svg",
+      "description": "Dell Inspiron 5578 CONVERTIBLE 2-IN-1 Core™ i7-7500U 2.7GHz 1TB 8GB 15.6\" (1920x1080) TOUCHSCREEN BT WIN10 Webcam GRAY Backlit Keyboard SCRATCH & DENT",
+      "mpn": "I15-5578I71T8T-SD",
+      "moq": 0,
+      "partNumber": "I15-5578I71T8T-SD",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 10,
+        "onHand": 10,
+        "enRoute": 0,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 499.0
+        }
+      ],
+      "attributes": [
+        {
+          "code": "CED700FB29",
+          "label": "Visual Condition",
+          "value": "Refurbished",
+          "iconUri": "",
+          "description": null,
+          "attrId": "99d69dca-a3d4-4f2b-8c06-912ecc95e4a1"
+        },
+        {
+          "code": "BAAF298B47",
+          "label": "Condition",
+          "value": "Factory Refurbished",
+          "iconUri": "",
+          "description": null,
+          "attrId": "3389ee35-d719-4bb4-bd0a-ac190f6b4a8a"
+        },
+        {
+          "code": "416FBFFE90",
+          "label": "Warranty",
+          "value": "1 Year Warranty",
+          "iconUri": "",
+          "description": null,
+          "attrId": "f73d4f6f-1306-466f-9338-65bb4adb6cbc"
+        },
+        {
+          "code": "AE860AA6E2",
+          "label": "Packaging",
+          "value": "Branded Box",
+          "iconUri": "",
+          "description": null,
+          "attrId": "9d53b1f5-4a99-4597-b253-7d50559d9d49"
+        },
+        {
+          "code": "1E3C4F305A",
+          "label": "Restrictions",
+          "value": "Yes",
+          "iconUri": "",
+          "description": "Can only be sold to USA Canada Chile Colombia Dominican Republic EL Salvador Germany Guatemala Israel The Netherlands Peru Poland Saudi Arabia Slovenia South Korea Trinidad and Tobago United Arab Emirates Uruguay",
+          "attrId": "ca391ff4-58bc-41f5-ab43-439cd0d72dde"
+        }
+      ],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "052833c1-32cc-43de-a5ab-04556858189d",
+      "manufacturer": "Lenovo",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/lenovo.svg",
+      "description": "Lenovo 320T-15IKB Core™ i5-8250U 1.6GHz 1TB 12GB 15.6\" (1366x768) TOUCHSCREEN DVD-RW BT WIN10 Webcam PLATINUM GREY",
+      "mpn": "81BH0001US-PK",
+      "moq": 1,
+      "partNumber": "81BH0001US-PK",
+      "leadTimeDays": 4,
+      "inventory": {
+        "availableToSell": 10,
+        "onHand": 0,
+        "enRoute": 10,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 399.0
+        }
+      ],
+      "attributes": [],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "f284acad-0bde-4e5a-bd38-0071959023f3",
+      "manufacturer": "Apple",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/apple.svg",
+      "description": "Apple MacBook Pro Dual Core™ i5 2.3GHz 128GB SSD 8GB 13\" (2560x1600) BT Mac OS Sierra Webcam Backlit Keyboard Space Gray",
+      "mpn": "MPXQ2LL/A",
+      "moq": 1,
+      "partNumber": "MPXQ2LL/A",
+      "leadTimeDays": 4,
+      "inventory": {
+        "availableToSell": 9,
+        "onHand": 0,
+        "enRoute": 9,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 1129.0
+        }
+      ],
+      "attributes": [],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "599eef3f-f136-429c-8e9d-053bb60d1f64",
+      "manufacturer": "Apple",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/apple.svg",
+      "description": "Apple MacBook Pro Dual Core™ I5 3.1GHz 256GB SSD 8GB 13\" (2560x1600) BT Mac OS Sierra Webcam Backlit Keyboard Space Gray",
+      "mpn": "MPXV2LL/A",
+      "moq": 1,
+      "partNumber": "MPXV2LL/A",
+      "leadTimeDays": 4,
+      "inventory": {
+        "availableToSell": 6,
+        "onHand": 0,
+        "enRoute": 6,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 1549.0
+        }
+      ],
+      "attributes": [],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "3da67713-ac09-4599-8981-099b65887606",
+      "manufacturer": "Lenovo",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/lenovo.svg",
+      "description": "Lenovo FLEX 5 15 2-IN-1 Core™ i7-8550U 1.8GHz 512GB SSD 8GB 15.6\" (1920x1080) TOUCHSCREEN BT WIN10 Webcam ONYX BLACK Backlit Keyboard FP Reader",
+      "mpn": "81C9000JUS",
+      "moq": 1,
+      "partNumber": "81C9000JUS-LCR",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 5,
+        "onHand": 5,
+        "enRoute": 0,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 589.0
+        }
+      ],
+      "attributes": [
+        {
+          "code": "BAAF298B47",
+          "label": "Condition",
+          "value": "Factory Refurbished",
+          "iconUri": "",
+          "description": null,
+          "attrId": "3389ee35-d719-4bb4-bd0a-ac190f6b4a8a"
+        },
+        {
+          "code": "2EC7A07AEB",
+          "label": "Warranty",
+          "value": "90 Day Warranty",
+          "iconUri": "",
+          "description": null,
+          "attrId": "f73d4f6f-1306-466f-9338-65bb4adb6cbc"
+        },
+        {
+          "code": "AE860AA6E2",
+          "label": "Packaging",
+          "value": "Branded Box",
+          "iconUri": "",
+          "description": null,
+          "attrId": "9d53b1f5-4a99-4597-b253-7d50559d9d49"
+        },
+        {
+          "code": "1E3C4F305A",
+          "label": "Restrictions",
+          "value": "Yes",
+          "iconUri": "",
+          "description": "Can only be sold in the United States",
+          "attrId": "ca391ff4-58bc-41f5-ab43-439cd0d72dde"
+        }
+      ],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "562f52aa-6a0f-43a0-9bd9-0b958c0f4161",
+      "manufacturer": "Lenovo",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/lenovo.svg",
+      "description": "Lenovo 320S-15IKB Core™ i5-7200U 2.5GHz 1TB 8GB 15.6\" (1920x1080) BT WIN10 Webcam NVIDIA® 940MX 2048MB MINERAL GREY Backlit Keyboard",
+      "mpn": "80X5005DUS-PK",
+      "moq": 1,
+      "partNumber": "80X5005DUS-PK",
+      "leadTimeDays": 4,
+      "inventory": {
+        "availableToSell": 5,
+        "onHand": 0,
+        "enRoute": 5,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 439.0
+        }
+      ],
+      "attributes": [],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "0185c6a1-fb44-4992-91cc-0f3b956cabeb",
+      "manufacturer": "Lenovo",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/lenovo.svg",
+      "description": "Lenovo 320-15IAP Pentium® Quad-Core N4200 1.1GHz 1TB 4GB 15.6 in (1366x768) DVD-RW BT WIN10 Webcam PLUM PURPLE",
+      "mpn": "80XR00ANUS-R",
+      "moq": 1,
+      "partNumber": "80XR00ANUS-R",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 5,
+        "onHand": 0,
+        "enRoute": 5,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 219.0
+        }
+      ],
+      "attributes": [
+        {
+          "code": "BAAF298B47",
+          "label": "Condition",
+          "value": "Factory Refurbished",
+          "iconUri": "",
+          "description": null,
+          "attrId": "3389ee35-d719-4bb4-bd0a-ac190f6b4a8a"
+        },
+        {
+          "code": "2EC7A07AEB",
+          "label": "Warranty",
+          "value": "90 Day Warranty",
+          "iconUri": "",
+          "description": null,
+          "attrId": "f73d4f6f-1306-466f-9338-65bb4adb6cbc"
+        },
+        {
+          "code": "AE860AA6E2",
+          "label": "Packaging",
+          "value": "Branded Box",
+          "iconUri": "",
+          "description": null,
+          "attrId": "9d53b1f5-4a99-4597-b253-7d50559d9d49"
+        }
+      ],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "eafcb958-0793-40fb-9f78-0477a7a0a3d1",
+      "manufacturer": "MSI",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/msi.svg",
+      "description": "MSI GS63VR STEALTH Pro Core™ i7-6700HQ 2.6GHz 1TB 16GB 15.6\" (1920x1080) BT WIN10 Webcam VR Ready NVIDIA® GTX1060 6144MB Backlit Keyboard",
+      "mpn": "9S7-16K212-422-R",
+      "moq": 1,
+      "partNumber": "9S7-16K212-422-R",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 4,
+        "onHand": 0,
+        "enRoute": 4,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 889.0
+        }
+      ],
+      "attributes": [],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "4ef2e65d-b106-4057-92f7-069c153d9d1c",
+      "manufacturer": "Dell",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/dell.svg",
+      "description": "Dell Inspiron 5759-8835SLV Core™ i7-6500U 3.1GHz 2TB 16GB 17.3\" (1920x1080) TOUCHSCREEN DVD-RW BT WIN10 Webcam AMD R5 M335 4GB SILVER",
+      "mpn": "I5759-8835SLV-R",
+      "moq": 1,
+      "partNumber": "I5759-8835SLV-R",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 3,
+        "onHand": 0,
+        "enRoute": 3,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 569.0
+        }
+      ],
+      "attributes": [],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "193ff265-a9a5-4b34-908f-062a5487ccde",
+      "manufacturer": "Lenovo",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/lenovo.svg",
+      "description": "Lenovo FLEX 4 14 2-IN-1 Core™ i5-6200U 2.3GHz 1TB 8GB 14\" (1920x1080) TOUCHSCREEN BT WIN10 Webcam BLACK Backlit Keyboard",
+      "mpn": "80SA0003US",
+      "moq": 1,
+      "partNumber": "80SA0003US-LCR",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 3,
+        "onHand": 3,
+        "enRoute": 0,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 389.0
+        }
+      ],
+      "attributes": [
+        {
+          "code": "BAAF298B47",
+          "label": "Condition",
+          "value": "Factory Refurbished",
+          "iconUri": "",
+          "description": null,
+          "attrId": "3389ee35-d719-4bb4-bd0a-ac190f6b4a8a"
+        },
+        {
+          "code": "2EC7A07AEB",
+          "label": "Warranty",
+          "value": "90 Day Warranty",
+          "iconUri": "",
+          "description": null,
+          "attrId": "f73d4f6f-1306-466f-9338-65bb4adb6cbc"
+        },
+        {
+          "code": "AE860AA6E2",
+          "label": "Packaging",
+          "value": "Branded Box",
+          "iconUri": "",
+          "description": null,
+          "attrId": "9d53b1f5-4a99-4597-b253-7d50559d9d49"
+        },
+        {
+          "code": "1E3C4F305A",
+          "label": "Restrictions",
+          "value": "Yes",
+          "iconUri": "",
+          "description": "Can only be sold in the United States",
+          "attrId": "ca391ff4-58bc-41f5-ab43-439cd0d72dde"
+        }
+      ],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "a40c0c85-695e-4ccf-b2a9-098ef6e31cd6",
+      "manufacturer": "HP",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/hp.svg",
+      "description": "HP EliteBook 820 Core™ i5-4300U 1.9GHz 240GB SSD 4GB 12.5\" (1366x768) BT WIN10 Pro Webcam",
+      "mpn": "E820I543424S-R",
+      "moq": 0,
+      "partNumber": "E820I543424S-R",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 3,
+        "onHand": 3,
+        "enRoute": 0,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 219.0
+        }
+      ],
+      "attributes": [
+        {
+          "code": "CED700FB29",
+          "label": "Visual Condition",
+          "value": "Refurbished",
+          "iconUri": "",
+          "description": null,
+          "attrId": "99d69dca-a3d4-4f2b-8c06-912ecc95e4a1"
+        },
+        {
+          "code": "4F5DDC5079",
+          "label": "Condition",
+          "value": "3rd Party Refurbished",
+          "iconUri": "",
+          "description": null,
+          "attrId": "3389ee35-d719-4bb4-bd0a-ac190f6b4a8a"
+        },
+        {
+          "code": "ADD6EA116B",
+          "label": "Warranty",
+          "value": "30 Day Warranty",
+          "iconUri": "",
+          "description": null,
+          "attrId": "f73d4f6f-1306-466f-9338-65bb4adb6cbc"
+        },
+        {
+          "code": "C35B6463C1",
+          "label": "Packaging",
+          "value": "Generic Box",
+          "iconUri": "",
+          "description": null,
+          "attrId": "9d53b1f5-4a99-4597-b253-7d50559d9d49"
+        }
+      ],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "e36e78b0-a547-45c3-8b41-0b7d270501ec",
+      "manufacturer": "Lenovo",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/lenovo.svg",
+      "description": "Dell Latitude E6430S Core™ i5-3340M 2.7GHz 128GB SSD 4GB 14\" (1366x768) DVD BT WIN10 Pro",
+      "mpn": "LATITUDE-E6430S",
+      "moq": 1,
+      "partNumber": "LAT-E6430S-010-B",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 3,
+        "onHand": 0,
+        "enRoute": 3,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 159.0
+        }
+      ],
+      "attributes": [],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "ac838bda-0dac-4bf4-971e-008d674cf3da",
+      "manufacturer": "Lenovo",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/lenovo.svg",
+      "description": "Lenovo Chromebook 100e Celeron® Dual-Core N3350 1.1GHz 32GB eMMC 4GB 15.6\" (1366x768) BT CHROME OS Webcam BLACK",
+      "mpn": "81ER0002US",
+      "moq": 1,
+      "partNumber": "81ER0002US-LCR",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 3,
+        "onHand": 3,
+        "enRoute": 0,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 149.0
+        }
+      ],
+      "attributes": [
+        {
+          "code": "BAAF298B47",
+          "label": "Condition",
+          "value": "Factory Refurbished",
+          "iconUri": "",
+          "description": null,
+          "attrId": "3389ee35-d719-4bb4-bd0a-ac190f6b4a8a"
+        },
+        {
+          "code": "2EC7A07AEB",
+          "label": "Warranty",
+          "value": "90 Day Warranty",
+          "iconUri": "",
+          "description": null,
+          "attrId": "f73d4f6f-1306-466f-9338-65bb4adb6cbc"
+        },
+        {
+          "code": "AE860AA6E2",
+          "label": "Packaging",
+          "value": "Branded Box",
+          "iconUri": "",
+          "description": null,
+          "attrId": "9d53b1f5-4a99-4597-b253-7d50559d9d49"
+        },
+        {
+          "code": "1E3C4F305A",
+          "label": "Restrictions",
+          "value": "Yes",
+          "iconUri": "",
+          "description": "Can only be sold in the United States",
+          "attrId": "ca391ff4-58bc-41f5-ab43-439cd0d72dde"
+        }
+      ],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "4fd367f6-fc29-44e5-8895-0270222f75eb",
+      "manufacturer": "Lenovo",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/lenovo.svg",
+      "description": "Lenovo 710S Plus Touch-13IKB Core™ i7-7500U 2.7GHz 512GB SSD 16GB 13.3\" (1920x1080) TOUCHSCREEN BT WIN10 Webcam SILVER Backlit Keyboard",
+      "mpn": "80YQ0007US",
+      "moq": 1,
+      "partNumber": "80YQ0007US-LSD",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 2,
+        "onHand": 2,
+        "enRoute": 0,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 669.0
+        }
+      ],
+      "attributes": [
+        {
+          "code": "2EC7A07AEB",
+          "label": "Warranty",
+          "value": "90 Day Warranty",
+          "iconUri": "",
+          "description": null,
+          "attrId": "f73d4f6f-1306-466f-9338-65bb4adb6cbc"
+        },
+        {
+          "code": "AE860AA6E2",
+          "label": "Packaging",
+          "value": "Branded Box",
+          "iconUri": "",
+          "description": null,
+          "attrId": "9d53b1f5-4a99-4597-b253-7d50559d9d49"
+        },
+        {
+          "code": "1E3C4F305A",
+          "label": "Restrictions",
+          "value": "Yes",
+          "iconUri": "",
+          "description": "Can only be sold in the United States",
+          "attrId": "ca391ff4-58bc-41f5-ab43-439cd0d72dde"
+        }
+      ],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "79057c45-51e9-45ee-a253-02528e802663",
+      "manufacturer": "Lenovo",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/lenovo.svg",
+      "description": "Lenovo FLEX 4 14 2-IN-1 Core™ i5-7200U 2.5GHz 256GB SSD 8GB 14\" (1920x1080) TOUCHSCREEN BT WIN10 Webcam BLACK Backlit Keyboard",
+      "mpn": "80VD0007US-PK",
+      "moq": 1,
+      "partNumber": "80VD0007US-PK",
+      "leadTimeDays": 4,
+      "inventory": {
+        "availableToSell": 2,
+        "onHand": 0,
+        "enRoute": 2,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 419.0
+        }
+      ],
+      "attributes": [],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "4c1f74c3-3fe8-49f8-9556-0fea4e0da481",
+      "manufacturer": "Lenovo",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/lenovo.svg",
+      "description": "Lenovo 310-15IKB Core™ i3-7100U 2.4GHz 1TB 4GB 15.6\" (1366x768) DVD-RW BT WIN10 Webcam RED",
+      "mpn": "80TV00BKUS",
+      "moq": 1,
+      "partNumber": "80TV00BKUS-LSD",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 2,
+        "onHand": 2,
+        "enRoute": 0,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 279.0
+        }
+      ],
+      "attributes": [
+        {
+          "code": "2EC7A07AEB",
+          "label": "Warranty",
+          "value": "90 Day Warranty",
+          "iconUri": "",
+          "description": null,
+          "attrId": "f73d4f6f-1306-466f-9338-65bb4adb6cbc"
+        },
+        {
+          "code": "AE860AA6E2",
+          "label": "Packaging",
+          "value": "Branded Box",
+          "iconUri": "",
+          "description": null,
+          "attrId": "9d53b1f5-4a99-4597-b253-7d50559d9d49"
+        },
+        {
+          "code": "1E3C4F305A",
+          "label": "Restrictions",
+          "value": "Yes",
+          "iconUri": "",
+          "description": "Can only be sold in the United States",
+          "attrId": "ca391ff4-58bc-41f5-ab43-439cd0d72dde"
+        }
+      ],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "62ce4430-2f0f-4249-a48f-0e08ee3c1eeb",
+      "manufacturer": "Lenovo",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/lenovo.svg",
+      "description": "Dell Latitude E6430S Core™ i5-3340M 2.7GHz 128GB SSD 4GB 14\" (1366x768) DVD BT WIN10 Pro",
+      "mpn": "LATITUDE-E6430S",
+      "moq": 0,
+      "partNumber": "LAT-E6430S-006-A",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 2,
+        "onHand": 2,
+        "enRoute": 0,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 169.0
+        }
+      ],
+      "attributes": [
+        {
+          "code": "CED700FB29",
+          "label": "Visual Condition",
+          "value": "Refurbished",
+          "iconUri": "",
+          "description": null,
+          "attrId": "99d69dca-a3d4-4f2b-8c06-912ecc95e4a1"
+        },
+        {
+          "code": "LB74FAB958",
+          "label": "Condition",
+          "value": "Off Lease",
+          "iconUri": "",
+          "description": null,
+          "attrId": "3389ee35-d719-4bb4-bd0a-ac190f6b4a8a"
+        },
+        {
+          "code": "2EC7A07AEB",
+          "label": "Warranty",
+          "value": "90 Day Warranty",
+          "iconUri": "",
+          "description": null,
+          "attrId": "f73d4f6f-1306-466f-9338-65bb4adb6cbc"
+        },
+        {
+          "code": "AE860AA6E2",
+          "label": "Packaging",
+          "value": "Branded Box",
+          "iconUri": "",
+          "description": null,
+          "attrId": "9d53b1f5-4a99-4597-b253-7d50559d9d49"
+        }
+      ],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "699ca3b5-2c00-4fec-91eb-00f875c17557",
+      "manufacturer": "Dell",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/dell.svg",
+      "description": "Dell Latitude E6230 Core™ i5-3320M 2.6GHz 128GB SSD 4GB 12.5\" (1366x768) BT WIN10 Pro Webcam",
+      "mpn": "LAT-E6230-001-A",
+      "moq": 1,
+      "partNumber": "LAT-E6230-001-A",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 2,
+        "onHand": 0,
+        "enRoute": 2,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 139.0
+        }
+      ],
+      "attributes": [],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "0e58b84d-7c88-4a1a-864c-076a7e20d75f",
+      "manufacturer": "MSI",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/msi.svg",
+      "description": "MSI PE72 Core™ i7-7700HQ 2.8GHz 1TB+512GB SSD 32GB 17.3\" (1920x1080) BT WIN10 Pro Webcam NVIDIA® GTX 1050 2048MB SILVER Backlit Keyboard",
+      "mpn": "9S7-1799C9-666-R",
+      "moq": 0,
+      "partNumber": "9S7-1799C9-666-R",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 1,
+        "onHand": 1,
+        "enRoute": 0,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 1039.0
+        }
+      ],
+      "attributes": [
+        {
+          "code": "CED700FB29",
+          "label": "Visual Condition",
+          "value": "Refurbished",
+          "iconUri": "",
+          "description": null,
+          "attrId": "99d69dca-a3d4-4f2b-8c06-912ecc95e4a1"
+        },
+        {
+          "code": "BAAF298B47",
+          "label": "Condition",
+          "value": "Factory Refurbished",
+          "iconUri": "",
+          "description": null,
+          "attrId": "3389ee35-d719-4bb4-bd0a-ac190f6b4a8a"
+        },
+        {
+          "code": "416FBFFE90",
+          "label": "Warranty",
+          "value": "1 Year Warranty",
+          "iconUri": "",
+          "description": null,
+          "attrId": "f73d4f6f-1306-466f-9338-65bb4adb6cbc"
+        },
+        {
+          "code": "AE860AA6E2",
+          "label": "Packaging",
+          "value": "Branded Box",
+          "iconUri": "",
+          "description": null,
+          "attrId": "9d53b1f5-4a99-4597-b253-7d50559d9d49"
+        }
+      ],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "80813a26-a499-4475-b827-041efe539d91",
+      "manufacturer": "Lenovo",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/lenovo.svg",
+      "description": "Lenovo Yoga 920-13IKB 2-IN-1 Core™ i7-8550U 1.8GHz 1TB SSD 16GB 13.9\" UHD (3840x2160) IPS TOUCHSCREEN BT WIN10 Webcam BRONZE Backlit Keyboard FP Reader 0.5\" thin, 3.02 lbs.",
+      "mpn": "80Y70066US",
+      "moq": 1,
+      "partNumber": "80Y70066US-LSD",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 1,
+        "onHand": 1,
+        "enRoute": 0,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 949.0
+        }
+      ],
+      "attributes": [
+        {
+          "code": "2EC7A07AEB",
+          "label": "Warranty",
+          "value": "90 Day Warranty",
+          "iconUri": "",
+          "description": null,
+          "attrId": "f73d4f6f-1306-466f-9338-65bb4adb6cbc"
+        },
+        {
+          "code": "AE860AA6E2",
+          "label": "Packaging",
+          "value": "Branded Box",
+          "iconUri": "",
+          "description": null,
+          "attrId": "9d53b1f5-4a99-4597-b253-7d50559d9d49"
+        },
+        {
+          "code": "1E3C4F305A",
+          "label": "Restrictions",
+          "value": "Yes",
+          "iconUri": "",
+          "description": "Can only be sold in the United States",
+          "attrId": "ca391ff4-58bc-41f5-ab43-439cd0d72dde"
+        }
+      ],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "925391c2-d6e5-4035-a84b-0e1ea7f22b6b",
+      "manufacturer": "HP",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/hp.svg",
+      "description": "HP OMEN 17t-w200 W10-64 i7 7700HQ 2.8GHz 1TB 128GB SSD 8GB DVDRW 17.3UHD 4GB Cam BT",
+      "mpn": "X7P07AAR#ABA-WJZ3",
+      "moq": 0,
+      "partNumber": "X7P07AAR#ABA-WJZ3",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 1,
+        "onHand": 1,
+        "enRoute": 0,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 839.0
+        }
+      ],
+      "attributes": [
+        {
+          "code": "CED700FB29",
+          "label": "Visual Condition",
+          "value": "Refurbished",
+          "iconUri": "",
+          "description": null,
+          "attrId": "99d69dca-a3d4-4f2b-8c06-912ecc95e4a1"
+        },
+        {
+          "code": "BAAF298B47",
+          "label": "Condition",
+          "value": "Factory Refurbished",
+          "iconUri": "",
+          "description": null,
+          "attrId": "3389ee35-d719-4bb4-bd0a-ac190f6b4a8a"
+        },
+        {
+          "code": "2EC7A07AEB",
+          "label": "Warranty",
+          "value": "90 Day Warranty",
+          "iconUri": "",
+          "description": null,
+          "attrId": "f73d4f6f-1306-466f-9338-65bb4adb6cbc"
+        },
+        {
+          "code": "6EAB59959B",
+          "label": "Packaging",
+          "value": "BULK",
+          "iconUri": "",
+          "description": null,
+          "attrId": "9d53b1f5-4a99-4597-b253-7d50559d9d49"
+        }
+      ],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "67ae91b5-0659-46ce-ada3-00b553475177",
+      "manufacturer": "Lenovo",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/lenovo.svg",
+      "description": "Lenovo ThinkPad P51s Core™ i7-7500U 2.7GHz 500GB 4GB 15.6\" (1920x1080) DVD-RW BT WIN10 Pro Webcam",
+      "mpn": "20HBCTO1WW-1-R",
+      "moq": 1,
+      "partNumber": "20HBCTO1WW-1-R",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 1,
+        "onHand": 1,
+        "enRoute": 0,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 719.0
+        }
+      ],
+      "attributes": [],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "a6bc20bf-ea65-40c0-a24d-057ff194f45d",
+      "manufacturer": "Lenovo",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/lenovo.svg",
+      "description": "Lenovo Miix 520-12IKB 2-IN-1 Core™ i5-8250U 1.6GHz 256GB SSD 8GB 12.2\" (1920x1200) IPS TOUCHSCREEN BT WIN10 2 Webcams Bluetooth Pen Backlit Keyboard PLATINUM",
+      "mpn": "81CG00NBUS",
+      "moq": 1,
+      "partNumber": "81CG00NBUS-LCR",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 1,
+        "onHand": 1,
+        "enRoute": 0,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 579.0
+        }
+      ],
+      "attributes": [
+        {
+          "code": "BAAF298B47",
+          "label": "Condition",
+          "value": "Factory Refurbished",
+          "iconUri": "",
+          "description": null,
+          "attrId": "3389ee35-d719-4bb4-bd0a-ac190f6b4a8a"
+        },
+        {
+          "code": "2EC7A07AEB",
+          "label": "Warranty",
+          "value": "90 Day Warranty",
+          "iconUri": "",
+          "description": null,
+          "attrId": "f73d4f6f-1306-466f-9338-65bb4adb6cbc"
+        },
+        {
+          "code": "AE860AA6E2",
+          "label": "Packaging",
+          "value": "Branded Box",
+          "iconUri": "",
+          "description": null,
+          "attrId": "9d53b1f5-4a99-4597-b253-7d50559d9d49"
+        },
+        {
+          "code": "1E3C4F305A",
+          "label": "Restrictions",
+          "value": "Yes",
+          "iconUri": "",
+          "description": "Can only be sold in the United States",
+          "attrId": "ca391ff4-58bc-41f5-ab43-439cd0d72dde"
+        }
+      ],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "5d7beede-0281-4bc9-8158-06453f28c5c9",
+      "manufacturer": "Lenovo",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/lenovo.svg",
+      "description": "Lenovo Yoga 730-13IKB 2-IN-1 Core™ i5-8250U 1.6GHz 128GB SSD 8GB 15.6\" (1920x1080) TOUCHSCREEN BT WIN10 Webcam IRON GREY Backlit Keyboard FP Reader",
+      "mpn": "81CT001QUS",
+      "moq": 1,
+      "partNumber": "81CT001QUS-LCR",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 1,
+        "onHand": 1,
+        "enRoute": 0,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 539.0
+        }
+      ],
+      "attributes": [
+        {
+          "code": "BAAF298B47",
+          "label": "Condition",
+          "value": "Factory Refurbished",
+          "iconUri": "",
+          "description": null,
+          "attrId": "3389ee35-d719-4bb4-bd0a-ac190f6b4a8a"
+        },
+        {
+          "code": "2EC7A07AEB",
+          "label": "Warranty",
+          "value": "90 Day Warranty",
+          "iconUri": "",
+          "description": null,
+          "attrId": "f73d4f6f-1306-466f-9338-65bb4adb6cbc"
+        },
+        {
+          "code": "AE860AA6E2",
+          "label": "Packaging",
+          "value": "Branded Box",
+          "iconUri": "",
+          "description": null,
+          "attrId": "9d53b1f5-4a99-4597-b253-7d50559d9d49"
+        },
+        {
+          "code": "1E3C4F305A",
+          "label": "Restrictions",
+          "value": "Yes",
+          "iconUri": "",
+          "description": "Can only be sold in the United States",
+          "attrId": "ca391ff4-58bc-41f5-ab43-439cd0d72dde"
+        }
+      ],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "9840d68d-aaeb-46dd-916e-02a8afc6023c",
+      "manufacturer": "Lenovo",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/lenovo.svg",
+      "description": "Lenovo LEGION Y520-15IKBN GAMING Core™ i5-7300HQ 2.5GHz 1TB 8GB 15.6\" (1920x1080) IPS BT WIN10 Webcam NVIDIA® GTX 1050Ti 4096MB BLACK Backlit Keyboard",
+      "mpn": "80WK001LUS",
+      "moq": 1,
+      "partNumber": "80WK001LUS-LSD",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 1,
+        "onHand": 1,
+        "enRoute": 0,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 529.0
+        }
+      ],
+      "attributes": [
+        {
+          "code": "2EC7A07AEB",
+          "label": "Warranty",
+          "value": "90 Day Warranty",
+          "iconUri": "",
+          "description": null,
+          "attrId": "f73d4f6f-1306-466f-9338-65bb4adb6cbc"
+        },
+        {
+          "code": "AE860AA6E2",
+          "label": "Packaging",
+          "value": "Branded Box",
+          "iconUri": "",
+          "description": null,
+          "attrId": "9d53b1f5-4a99-4597-b253-7d50559d9d49"
+        },
+        {
+          "code": "1E3C4F305A",
+          "label": "Restrictions",
+          "value": "Yes",
+          "iconUri": "",
+          "description": "Can only be sold in the United States",
+          "attrId": "ca391ff4-58bc-41f5-ab43-439cd0d72dde"
+        }
+      ],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "352a0503-a871-4d99-b8fa-02b94448070e",
+      "manufacturer": "Lenovo",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/lenovo.svg",
+      "description": "Lenovo FLEX 5 14 2-IN-1 Core™ i7-7500U 2.7GHz 256GB SSD 8GB 14\" (1920x1080) TOUCHSCREEN BT WIN10 Webcam NVIDIA® 940MX 2048MB ONYX BLACK Backlit Keyboard",
+      "mpn": "80XA0006US",
+      "moq": 1,
+      "partNumber": "80XA0006US-LCR",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 1,
+        "onHand": 1,
+        "enRoute": 0,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 519.0
+        }
+      ],
+      "attributes": [
+        {
+          "code": "BAAF298B47",
+          "label": "Condition",
+          "value": "Factory Refurbished",
+          "iconUri": "",
+          "description": null,
+          "attrId": "3389ee35-d719-4bb4-bd0a-ac190f6b4a8a"
+        },
+        {
+          "code": "2EC7A07AEB",
+          "label": "Warranty",
+          "value": "90 Day Warranty",
+          "iconUri": "",
+          "description": null,
+          "attrId": "f73d4f6f-1306-466f-9338-65bb4adb6cbc"
+        },
+        {
+          "code": "AE860AA6E2",
+          "label": "Packaging",
+          "value": "Branded Box",
+          "iconUri": "",
+          "description": null,
+          "attrId": "9d53b1f5-4a99-4597-b253-7d50559d9d49"
+        },
+        {
+          "code": "1E3C4F305A",
+          "label": "Restrictions",
+          "value": "Yes",
+          "iconUri": "",
+          "description": "Can only be sold in the United States",
+          "attrId": "ca391ff4-58bc-41f5-ab43-439cd0d72dde"
+        }
+      ],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "7bda4b20-c287-43fd-93e9-03b081ff89b3",
+      "manufacturer": "Lenovo",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/lenovo.svg",
+      "description": "Lenovo 320-17IKB Core™ i7-7500U 2.7GHz 2TB 16GB 17.3 \" (1600x900) DVD-RW BT WIN10 Webcam BLACK",
+      "mpn": "80XM0002US",
+      "moq": 1,
+      "partNumber": "80XM0002US-LCR",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 1,
+        "onHand": 1,
+        "enRoute": 0,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 489.0
+        }
+      ],
+      "attributes": [
+        {
+          "code": "BAAF298B47",
+          "label": "Condition",
+          "value": "Factory Refurbished",
+          "iconUri": "",
+          "description": null,
+          "attrId": "3389ee35-d719-4bb4-bd0a-ac190f6b4a8a"
+        },
+        {
+          "code": "2EC7A07AEB",
+          "label": "Warranty",
+          "value": "90 Day Warranty",
+          "iconUri": "",
+          "description": null,
+          "attrId": "f73d4f6f-1306-466f-9338-65bb4adb6cbc"
+        },
+        {
+          "code": "AE860AA6E2",
+          "label": "Packaging",
+          "value": "Branded Box",
+          "iconUri": "",
+          "description": null,
+          "attrId": "9d53b1f5-4a99-4597-b253-7d50559d9d49"
+        },
+        {
+          "code": "1E3C4F305A",
+          "label": "Restrictions",
+          "value": "Yes",
+          "iconUri": "",
+          "description": "Can only be sold in the United States",
+          "attrId": "ca391ff4-58bc-41f5-ab43-439cd0d72dde"
+        }
+      ],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "a8dd2389-c8b3-4824-84b4-0835ca77b925",
+      "manufacturer": "Lenovo",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/lenovo.svg",
+      "description": "Lenovo Miix 700-12ISK 2-IN-1 Core™ M7-6Y75 1.2GHz 256GB SSD 8GB 12\" (2160x1440) TOUCHSCREEN BT WIN10 2 Webcams GOLDEN Keyboard Dock",
+      "mpn": "80QL000BUS",
+      "moq": 1,
+      "partNumber": "80QL000BUS-LSD",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 1,
+        "onHand": 1,
+        "enRoute": 0,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 455.0
+        }
+      ],
+      "attributes": [
+        {
+          "code": "2EC7A07AEB",
+          "label": "Warranty",
+          "value": "90 Day Warranty",
+          "iconUri": "",
+          "description": null,
+          "attrId": "f73d4f6f-1306-466f-9338-65bb4adb6cbc"
+        },
+        {
+          "code": "AE860AA6E2",
+          "label": "Packaging",
+          "value": "Branded Box",
+          "iconUri": "",
+          "description": null,
+          "attrId": "9d53b1f5-4a99-4597-b253-7d50559d9d49"
+        },
+        {
+          "code": "1E3C4F305A",
+          "label": "Restrictions",
+          "value": "Yes",
+          "iconUri": "",
+          "description": "Can only be sold in the United States",
+          "attrId": "ca391ff4-58bc-41f5-ab43-439cd0d72dde"
+        }
+      ],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "1b98e733-e826-4cef-8059-0bb8220a50b8",
+      "manufacturer": "Lenovo",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/lenovo.svg",
+      "description": "Lenovo 320S-14IKB Core™ i3-7100U 2.4GHz 1TB 4GB 14\" (1920x1080) IPS BT WIN10 Webcam MINERAL GREY",
+      "mpn": "80X400EJUS",
+      "moq": 1,
+      "partNumber": "80X400EJUS-LCR",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 1,
+        "onHand": 1,
+        "enRoute": 0,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 319.0
+        }
+      ],
+      "attributes": [
+        {
+          "code": "BAAF298B47",
+          "label": "Condition",
+          "value": "Factory Refurbished",
+          "iconUri": "",
+          "description": null,
+          "attrId": "3389ee35-d719-4bb4-bd0a-ac190f6b4a8a"
+        },
+        {
+          "code": "2EC7A07AEB",
+          "label": "Warranty",
+          "value": "90 Day Warranty",
+          "iconUri": "",
+          "description": null,
+          "attrId": "f73d4f6f-1306-466f-9338-65bb4adb6cbc"
+        },
+        {
+          "code": "AE860AA6E2",
+          "label": "Packaging",
+          "value": "Branded Box",
+          "iconUri": "",
+          "description": null,
+          "attrId": "9d53b1f5-4a99-4597-b253-7d50559d9d49"
+        },
+        {
+          "code": "1E3C4F305A",
+          "label": "Restrictions",
+          "value": "Yes",
+          "iconUri": "",
+          "description": "Can only be sold in the United States",
+          "attrId": "ca391ff4-58bc-41f5-ab43-439cd0d72dde"
+        }
+      ],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "740e2fa7-213e-4b01-a333-02dc88de29be",
+      "manufacturer": "Lenovo",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/lenovo.svg",
+      "description": "Lenovo 320S-14IKB Core™ i3-7100U 2.4GHz 1TB 4GB 14\" (1920x1080) IPS BT WIN10 Webcam MINERAL GREY",
+      "mpn": "80X40094US",
+      "moq": 1,
+      "partNumber": "80X40094US-LCR",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 1,
+        "onHand": 1,
+        "enRoute": 0,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 299.0
+        }
+      ],
+      "attributes": [
+        {
+          "code": "BAAF298B47",
+          "label": "Condition",
+          "value": "Factory Refurbished",
+          "iconUri": "",
+          "description": null,
+          "attrId": "3389ee35-d719-4bb4-bd0a-ac190f6b4a8a"
+        },
+        {
+          "code": "2EC7A07AEB",
+          "label": "Warranty",
+          "value": "90 Day Warranty",
+          "iconUri": "",
+          "description": null,
+          "attrId": "f73d4f6f-1306-466f-9338-65bb4adb6cbc"
+        },
+        {
+          "code": "AE860AA6E2",
+          "label": "Packaging",
+          "value": "Branded Box",
+          "iconUri": "",
+          "description": null,
+          "attrId": "9d53b1f5-4a99-4597-b253-7d50559d9d49"
+        },
+        {
+          "code": "1E3C4F305A",
+          "label": "Restrictions",
+          "value": "Yes",
+          "iconUri": "",
+          "description": "Can only be sold in the United States",
+          "attrId": "ca391ff4-58bc-41f5-ab43-439cd0d72dde"
+        }
+      ],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "775e1b24-c3b8-4f61-8663-09ba003549bf",
+      "manufacturer": "Lenovo",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/lenovo.svg",
+      "description": "Lenovo N24 Pentium® Quad-Core N4200 1.1GHz 64GB eMMC 4GB 11.6\" (1366x768) TOUCHSCREEN BT WIN10 Pro Webcam BLACK",
+      "mpn": "81AF001AUS",
+      "moq": 1,
+      "partNumber": "81AF001AUS-LSD",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 1,
+        "onHand": 1,
+        "enRoute": 0,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 159.0
+        }
+      ],
+      "attributes": [
+        {
+          "code": "2EC7A07AEB",
+          "label": "Warranty",
+          "value": "90 Day Warranty",
+          "iconUri": "",
+          "description": null,
+          "attrId": "f73d4f6f-1306-466f-9338-65bb4adb6cbc"
+        },
+        {
+          "code": "AE860AA6E2",
+          "label": "Packaging",
+          "value": "Branded Box",
+          "iconUri": "",
+          "description": null,
+          "attrId": "9d53b1f5-4a99-4597-b253-7d50559d9d49"
+        },
+        {
+          "code": "1E3C4F305A",
+          "label": "Restrictions",
+          "value": "Yes",
+          "iconUri": "",
+          "description": "Can only be sold in the United States",
+          "attrId": "ca391ff4-58bc-41f5-ab43-439cd0d72dde"
+        }
+      ],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "07ef48c3-e565-4a69-9e6c-0ec8b62fff33",
+      "manufacturer": "HP",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/hp.svg",
+      "description": "HP EliteBook 8470P Core™ i5-3230M 2.6GHz 500GB 4GB 14\" (1366x768) DVD WIN10 Pro",
+      "mpn": "D2E04UP",
+      "moq": 0,
+      "partNumber": "EB 8470P-048-B",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 1,
+        "onHand": 1,
+        "enRoute": 0,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 139.0
+        }
+      ],
+      "attributes": [
+        {
+          "code": "CED700FB29",
+          "label": "Visual Condition",
+          "value": "Refurbished",
+          "iconUri": "",
+          "description": null,
+          "attrId": "99d69dca-a3d4-4f2b-8c06-912ecc95e4a1"
+        },
+        {
+          "code": "4F5DDC5079",
+          "label": "Condition",
+          "value": "3rd Party Refurbished",
+          "iconUri": "",
+          "description": null,
+          "attrId": "3389ee35-d719-4bb4-bd0a-ac190f6b4a8a"
+        },
+        {
+          "code": "2EC7A07AEB",
+          "label": "Warranty",
+          "value": "90 Day Warranty",
+          "iconUri": "",
+          "description": null,
+          "attrId": "f73d4f6f-1306-466f-9338-65bb4adb6cbc"
+        },
+        {
+          "code": "AE860AA6E2",
+          "label": "Packaging",
+          "value": "Branded Box",
+          "iconUri": "",
+          "description": null,
+          "attrId": "9d53b1f5-4a99-4597-b253-7d50559d9d49"
+        }
+      ],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "41c7342a-6eca-4e3b-ba5a-0fd3ed2bb5e2",
+      "manufacturer": "Lenovo",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/lenovo.svg",
+      "description": "Lenovo N22 Celeron® Dual-Core N3060 1.6GHz 32GB eMMC 4GB 11.6\" (1366x768) BT WIN10 Pro Webcam BLACK",
+      "mpn": "80S6001UUS",
+      "moq": 1,
+      "partNumber": "80S6001UUS-LCR",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 1,
+        "onHand": 1,
+        "enRoute": 0,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 119.0
+        }
+      ],
+      "attributes": [
+        {
+          "code": "BAAF298B47",
+          "label": "Condition",
+          "value": "Factory Refurbished",
+          "iconUri": "",
+          "description": null,
+          "attrId": "3389ee35-d719-4bb4-bd0a-ac190f6b4a8a"
+        },
+        {
+          "code": "2EC7A07AEB",
+          "label": "Warranty",
+          "value": "90 Day Warranty",
+          "iconUri": "",
+          "description": null,
+          "attrId": "f73d4f6f-1306-466f-9338-65bb4adb6cbc"
+        },
+        {
+          "code": "AE860AA6E2",
+          "label": "Packaging",
+          "value": "Branded Box",
+          "iconUri": "",
+          "description": null,
+          "attrId": "9d53b1f5-4a99-4597-b253-7d50559d9d49"
+        },
+        {
+          "code": "1E3C4F305A",
+          "label": "Restrictions",
+          "value": "Yes",
+          "iconUri": "",
+          "description": "Can only be sold in the United States",
+          "attrId": "ca391ff4-58bc-41f5-ab43-439cd0d72dde"
+        }
+      ],
+      "comments": [],
+      "links": []
+    },
+    {
+      "id": "edfd26fe-a991-4b4a-88a3-0b5bc9cd7230",
+      "manufacturer": "HP",
+      "manufacturerLogoUrl": "/assets/images/manufacturer/hp.svg",
+      "description": "HP Chromebook 11 G4 Celeron® Dual-Core N2840 2.16GHz 16GB eMMC 4GB 11.6\" (1366x768) BT CHROME OS Webcam",
+      "mpn": "V2W30UT#ABA-R",
+      "moq": 0,
+      "partNumber": "V2W30UT#ABA-R",
+      "leadTimeDays": null,
+      "inventory": {
+        "availableToSell": 1,
+        "onHand": 1,
+        "enRoute": 0,
+        "committed": 0
+      },
+      "prices": [
+        {
+          "fromQty": 1,
+          "unitPrice": 99.0
+        }
+      ],
+      "attributes": [
+        {
+          "code": "CED700FB29",
+          "label": "Visual Condition",
+          "value": "Refurbished",
+          "iconUri": "",
+          "description": null,
+          "attrId": "99d69dca-a3d4-4f2b-8c06-912ecc95e4a1"
+        },
+        {
+          "code": "8C1E29CF90",
+          "label": "Condition",
+          "value": "Store Return - 3rd Party Refurbished",
+          "iconUri": "",
+          "description": null,
+          "attrId": "3389ee35-d719-4bb4-bd0a-ac190f6b4a8a"
+        },
+        {
+          "code": "2EC7A07AEB",
+          "label": "Warranty",
+          "value": "90 Day Warranty",
+          "iconUri": "",
+          "description": null,
+          "attrId": "f73d4f6f-1306-466f-9338-65bb4adb6cbc"
+        },
+        {
+          "code": "C35B6463C1",
+          "label": "Packaging",
+          "value": "Generic Box",
+          "iconUri": "",
+          "description": null,
+          "attrId": "9d53b1f5-4a99-4597-b253-7d50559d9d49"
+        }
+      ],
+      "comments": [],
+      "links": []
+    }
+  ],
+  "filter": {
+    "savedFilter": "d20c96ad-f2ce-4165-87d2-b49bc61a83e6",
+    "searchQuery": null
+  }
+}

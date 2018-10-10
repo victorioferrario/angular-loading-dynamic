@@ -2,16 +2,14 @@ app-item-content {
   width: 100%;
   display: block;
 }
-
-.content {
-  margin-top: 0 !important;
-  margin-bottom: 0;
-  position: relative;
+:host {
+  display: block;
+  box-sizing: border-box;
 }
-
 .item-wrapper {
   border: 1px solid #e7e7e7;
   border-radius: 4px;
-  height: 125px;
+  height: 155px;
   margin-bottom: 8px;
 }
+

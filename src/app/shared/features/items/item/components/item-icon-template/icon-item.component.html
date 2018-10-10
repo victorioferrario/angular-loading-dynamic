@@ -12,14 +12,6 @@
                 <img height="21" src="assets/images/price-drop-item-green.svg" width="21" /></span>
         </span>
     </ng-container>
-    <ng-container *ngSwitchCase="ButtonTypes.CONDITION">
-        <span class="item-icon">
-            <span class="item-icon-image">
-                <img alt="Condition" src="assets/images/icons/Condition.svg">
-            </span>
-            <span class="item-icon-label" [fxShow.xs]="false">Factory Refurbished</span>
-        </span>
-    </ng-container>
     <ng-container *ngSwitchCase="ButtonTypes.ROCKET">
         <span class="item-icon no-label">
             <span class="item-icon-image">
@@ -32,27 +24,35 @@
                 <img alt="Restrictions" src="assets/images/icons/Restrictions.svg"></span>
         </span>
     </ng-container>
+    <ng-container *ngSwitchCase="ButtonTypes.CONDITION">
+        <span class="item-icon yes-label">
+            <span class="item-icon-image">
+                <img alt="Condition" src="assets/images/icons/Condition.svg">
+            </span>
+            <span class="item-icon-label" [fxShow.xs]="false">{{text}}</span>
+        </span>
+    </ng-container>
     <ng-container *ngSwitchCase="ButtonTypes.ETA">
-        <span class="item-icon">
+        <span class="item-icon yes-label">
             <span class="item-icon-image">
                 <img alt="ETA" src="assets/images/icons/eta.svg"></span>
-            <span class="item-icon-label" [fxShow.xs]="false">4 Days</span>
+            <span class="item-icon-label" [fxShow.xs]="false">{{text}}</span>
         </span>
     </ng-container>
     <ng-container *ngSwitchCase="ButtonTypes.PACKAGING">
-        <span class="item-icon">
+        <span class="item-icon yes-label">
             <span class="item-icon-image">
                 <img alt="Condition" src="assets/images/icons/Packaging.svg">
             </span>
-            <span class="item-icon-label" [fxShow.xs]="false">Branded Box</span>
+            <span class="item-icon-label" [fxShow.xs]="false">{{text}}</span>
         </span>
     </ng-container>
     <ng-container *ngSwitchCase="ButtonTypes.WARRANTY">
-        <span class="item-icon">
+        <span class="item-icon yes-label">
             <span class="item-icon-image">
                 <img alt="Condition" src="assets/images/icons/Warranty.svg">
             </span>
-            <span class="item-icon-label" [fxShow.xs]="false">90 Day Warranty</span>
+            <span class="item-icon-label" [fxShow.xs]="false">{{text}}</span>
         </span>
     </ng-container>
 </ng-container>

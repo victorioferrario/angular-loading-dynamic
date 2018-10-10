@@ -1,16 +1,20 @@
-import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-
-import { AppComponent } from './app.component';
-import { ServiceWorkerModule } from '@angular/service-worker';
-import { environment } from '../environments/environment';
-import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { FlexLayoutModule } from '@angular/flex-layout';
+import { BrowserModule } from '@angular/platform-browser';
+import { environment } from '../environments/environment';
+import { ServiceWorkerModule } from '@angular/service-worker';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+/**
+ * LOCAL
+ */
+import { AppComponent } from './app.component';
 import { ItemsItemModule } from './shared/features/items/item/items-item.module';
+import { DomainModule } from './shared/domain/domain.module';
 @NgModule({
-  declarations: [
-    AppComponent
-  ],
+  providers: [],
+  bootstrap: [AppComponent],
+  entryComponents: [],
+  declarations: [AppComponent],
   imports: [
     BrowserModule.withServerTransition({ appId: 'serverApp' }),
     ServiceWorkerModule.register('ngsw-worker.js', {
@@ -18,9 +22,8 @@ import { ItemsItemModule } from './shared/features/items/item/items-item.module'
     }),
     BrowserAnimationsModule,
     FlexLayoutModule,
-    ItemsItemModule
-  ],
-  providers: [],
-  bootstrap: [AppComponent]
+    ItemsItemModule,
+    DomainModule
+  ]
 })
 export class AppModule {}

@@ -11,4 +11,6 @@ export class IconItemComponent {
   public ButtonTypes = ButtonTypes;
   @Input()
   buttonType: ButtonTypes;
+  @Input()
+  text: string;
 }

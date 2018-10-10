@@ -1,3 +1,3 @@
-export * from './components';
-export { IconItemComponent} from './components';
 export * from './models';
+export * from './components';
+export * from './items-item.module';

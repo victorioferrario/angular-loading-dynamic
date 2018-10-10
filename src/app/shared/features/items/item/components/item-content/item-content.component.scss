@@ -1,24 +1,22 @@
+:host {
+  display: block;
+  box-sizing: border-box;
+}
 .content {
+  padding: 5px;
   margin-top: 0 !important;
   margin-bottom: 0;
   position: relative;
+  height: 100px;
 }
 .item-col-left {
-  text-transform: uppercase;
-  transition: all cubic-bezier(0.19, 1, 0.22, 1) 200ms;
+  // transition: all cubic-bezier(0.19, 1, 0.22, 1) 200ms;
+  min-width: 80px;
 }
-
-.sec2 {
-  background: yellow;
-  color: blue;
-}
-
 .item-col-right {
   color: #000;
-  text-transform: uppercase;
-  transition: all cubic-bezier(0.19, 1, 0.22, 1) 200ms;
+  // transition: all cubic-bezier(0.19, 1, 0.22, 1) 200ms;
 }
-
 .item-col-left,
 .item-col-right {
   padding-top: 10px;
@@ -26,29 +24,13 @@
   text-align: center;
   font-size: 11px;
 }
-
 .sec-description {
   text-align: left;
   padding: 10px;
   font-size: 14px;
   padding-left: 15px;
+  padding-top: 12px;
 }
-
-// .sec-footer {
-//   padding: 10px;
-//   padding-top: 6px;
-//   padding-bottom: 1px;
-//   background-color: #f8f8f8;
-//   width: 100%;
-//   margin-top: 0;
-// }
-
-.content {
-  margin-top: 0 !important;
-  margin-bottom: 0;
-  position: relative;
-}
-
 .item-logo {
   width: 60px;
   height: 60px;
@@ -56,9 +38,79 @@
   background-color: #493b8d;
   margin: auto;
 }
-.item-wrapper {
-  border: 1px solid #e7e7e7;
-  border-radius: 4px;
-  height: 125px;
-  margin-bottom: 8px;
+// .item-wrapper {
+//   border: 1px solid #e7e7e7;
+//   border-radius: 4px;
+//   height: 140px;
+//   margin-bottom: 8px;
+// }
+.item-available {
+  flex: 1 1 100%;
+  box-sizing: border-box;
+  max-width: 15%;
+  display: block;
+}
+
+.item-mpn {
+  display: inline;
+  background: #f8f8f8;
+  border-radius: 100px;
+  padding: 0 6px;
+}
+
+.row-inventory {
+  flex: 1 1 100%;
+  box-sizing: border-box;
+  max-width: 10%;
+  display: block;
+}
+
+.flow {
+  display: flex;
+  box-sizing: border-box;
+  -webkit-box-direction: normal;
+
+  .row {
+    flex-direction: row;
+    -webkit-box-orient: horizontal;
+  }
+
+  .column {
+    flex-direction: column;
+    -webkit-box-orient: vertical;
+    height: 70px; /*  important for sizing of row heights */
+    margin-bottom: 0;
+  }
+}
+.item_75,
+.item_40,
+.item_20,
+.item_10,
+.item_05 {
+  flex: 1 1 100%;
+  box-sizing: border-box;
+  -webkit-box-flex: 1;
+}
+
+.row .item_75 {
+  max-width: 75%;
+}
+.row .item_40 {
+  max-width: 40%;
+}
+.row .item_20 {
+  max-width: 20%;
+}
+.row .item_10 {
+  max-width: 10%;
+}
+.row .item_05 {
+  max-width: 8%;
+}
+
+.column .item_40 {
+  max-height: 40%;
+}
+.column .item_20 {
+  max-height: 20%;
 }

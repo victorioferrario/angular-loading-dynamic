@@ -1,8 +1,8 @@
-<div class="bounds">
-  <app-items-item></app-items-item>
-  <app-items-item></app-items-item>
-  <app-items-item></app-items-item>
-  <app-items-item></app-items-item>
-  <app-items-item></app-items-item>
-  <app-items-item></app-items-item>
-</div>
+<main fxLayout="row">
+  <aside fxFill fxLayoutAlign=" stretch" fxFlex="10" class="nav-aside">
+    Menu Stuff
+  </aside>
+  <section fxFill fxFlex="90" style="padding:15px">
+    <app-items-item *ngFor="let item of this.ds | async; trackBy: this.trackByFn" [item]="item"></app-items-item>
+  </section>
+</main>
