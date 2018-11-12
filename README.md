@@ -1,4 +1,5 @@
 # AngularUniversal
+This application was the first time I tried to load or switch case a components render at runtime.
 
 ## Adding ngx/bootstrap
 
